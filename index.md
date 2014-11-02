@@ -47,6 +47,11 @@ Here's an example:
 
 Squareroot of 50
 
-'''{r}
+
+```r
 sqrt(50)
-'''
+```
+
+```
+## [1] 7.071
+```
